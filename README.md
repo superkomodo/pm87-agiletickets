@@ -1,6 +1,8 @@
 Agile Tickets
 =============
 
+Desenvolvedor principal: Edgard
+
 Começando a desenvolver
 -----------------------
 
