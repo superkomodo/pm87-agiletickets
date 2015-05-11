@@ -119,4 +119,7 @@ public class Sessao {
 		return preco;
 	}
 	
+	public double getTaxaDisponibilidade() {
+		return this.getIngressosDisponiveis() / this.getTotalIngressos().doubleValue();
+	}
 }
